@@ -1,0 +1,1 @@
+Generate recipe steps , ingredients and image based on recipe name provided by user , using Azure OpenAI service , Spring AI and llms like gpt3,5 and DALL.E-3 The frontend is in this repo https://github.com/ChakerElj/chefRobot_front
